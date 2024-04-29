@@ -204,6 +204,8 @@ body {
     text-decoration: none;
 }
 
+/* PAGE 3 */
+
 #page3 {
     min-height: 120vh;
     width: 100%;
@@ -212,6 +214,23 @@ body {
     align-items: center;
     justify-content: space-evenly;
     flex-wrap: wrap;
+}
+
+#page3 .go123 {
+    font-size: 56px;
+    grid-column: span 7;
+    text-transform: uppercase;
+    line-height: 1em;
+    max-width: 14em;
+}
+
+.p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
 }
 
 .child {
