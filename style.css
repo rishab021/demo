@@ -15,8 +15,13 @@
 }
 
 *::selection {
-    color: #fff;
-    background-color: #066d4e;
+    color: white;
+    background: black;
+}
+
+::-moz-selection {
+    color: white;
+    background: black;
 }
 
 html, body {
@@ -569,6 +574,10 @@ div {
         align-items: center;
         justify-content: space-evenly;
         flex-wrap: wrap;
+    }
+
+    #h2 {
+        min-height: 4.861111112vw;
     }
 
     .child {
