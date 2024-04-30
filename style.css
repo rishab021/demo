@@ -259,6 +259,28 @@ div {
     margin-bottom: 0px;
 }
 
+.go2163704 {
+    font-family: "ABC Social Mono", "Lucida Sans", "Tahoma, nanospaced";
+    font-weight: 500;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    position: relative;
+    padding-bottom: 8px;
+    letter-spacing: 0.05em;
+    font-size: 12px;
+}
+
+.go1213820 {
+    transform-origin: 0% 0%;
+    transform: translate(0px, 0px);
+}
+
+#a {
+    -webkit-text-decoration: underline;
+    text-decoration: underline;
+    color: currentColor;
+}
+
 .p {
     margin-top: 0px;
     margin-bottom: 32px;
