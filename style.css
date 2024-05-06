@@ -81,6 +81,15 @@ div {
     margin: 0 20px;
 }
 
+.go2708325 {
+    padding-right: 1px;
+    margin-left: 6px;
+    display: inline-block;
+    height: 0.7em;
+    width: 0.7em;
+    pointer-events: none;
+}
+
 #icons {
     padding: 10px;
     border-radius: 50px;
