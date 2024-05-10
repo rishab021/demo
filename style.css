@@ -91,7 +91,7 @@ div {
     pointer-events: none;
 }
 
-/* .go195209187 {
+/*  .go195209187 {
     width: 13px;
     height: 36px;
     padding: 10px 14px;
@@ -144,13 +144,13 @@ button {
     line-height: normal;
     text-align: center;
     cursor: default;
-}
+}*/
 
 .go3668395055 {
     width: 18px;
     height: 6px;
     position: relative;
-}
+} 
 
 .go3668395055 span:last-child {
     top: 100%;
@@ -171,7 +171,7 @@ button {
     margin-right: -13px;
 }
 
-.go195209187 svg {
+/* .go195209187 svg {
     z-index: 1000;
     color: #000;
 }
@@ -183,7 +183,7 @@ button {
 .go414717972 path {
     transform: translateY(0);
     transition: trasform 0.25s ease-out;
-} */
+} */ */
 
 #icons {
     padding: 10px;
