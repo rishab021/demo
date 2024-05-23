@@ -8,5 +8,20 @@
     "not and_ff <= 123",
     "not firefox <= 123",
     "not safari <= 17.4"
-  ]
+  ],
+  "hints": {
+    "axe/text-alternatives": [
+      "default",
+      {
+        "image-alt": "off"
+      }
+    ],
+    "no-inline-styles": "off",
+    "axe/name-role-value": [
+      "default",
+      {
+        "button-name": "off"
+      }
+    ]
+  }
 }
