@@ -45,6 +45,11 @@ body {
     pointer-events: all;
 }
 
+button {
+    color: currentColor;
+    cursor: pointer;
+}
+
 .go195209187 button {
     width: 42px;
     height: 42px;
