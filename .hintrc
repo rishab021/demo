@@ -7,7 +7,12 @@
     "not ie 11",
     "not and_ff <= 123",
     "not firefox <= 123",
-    "not safari <= 17.4"
+    "not safari <= 17.4",
+    "not and_chr <= 122",
+    "not chrome <= 122",
+    "not edge <= 122",
+    "not opera <= 108",
+    "not samsung <= 23"
   ],
   "hints": {
     "axe/text-alternatives": [
