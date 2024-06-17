@@ -441,9 +441,85 @@ button {
 .go3377110544 {
     grid-column: 1 / -1;
     height: 1px;
+    margin-bottom: 24x;
     background: black;
 }
 
+.keen-slider:not([data-keen-slider-disabled]) {
+    -webkit-tap-highlight-color: transparent;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    touch-action: pan-y;
+    user-select: none;
+    width: 100%;
+}
+
+.go3112104797 {
+    grid-column: 1 / -1;
+    cursor: grab;
+}
+
+.keen-slider:not([data-keen-slider-disabled]) .keen-slider_slider {
+    min-height: 100%;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.go1368465217 {
+    font-size: 24px;
+    line-height: 1em;
+    text-align: left;
+}
+
+.reset-button {
+    background-color: transparent;
+    border-width: 0px;
+    font-family: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    padding: 0px;
+}
+button {
+    color: currentColor;
+    cursor: pointer;
+}
+
+.go2012788653 {
+    background: transparent;
+}
+
+.go532121862 {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-bottom: 24px;
+    transition: backgrond 0.3s ease-out;
+}
+
+.go1368465217 span {
+    opacity: 1;
+    transition: opacity 0.2s
+        ease-out;
+    display: block;
+    max-width: 10em;
+}
+
+.go2012788653 > div:last-of-type {
+    opacity: 1;
+}
+
+.go239534344 {
+    position: relative;
+    top: 0px;
+    margin-top: 0px;
+}
+
+pattern {
+    overflow: hidden;
+}
 
 
 @media (max-width: 1024px) {
