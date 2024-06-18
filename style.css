@@ -460,7 +460,6 @@ button {
     cursor: grab;
 }
 
-<<<<<<< HEAD
 .keen-slider:not([data-keen-slider-disabled]) .keen-slider_slider {
     min-height: 100%;
     overflow: hidden;
@@ -474,8 +473,6 @@ button {
     text-align: left;
 }
 
-=======
->>>>>>> bd1829c4469e19d455fdf61a008c6483dee1eb2f
 .reset-button {
     background-color: transparent;
     border-width: 0px;
@@ -488,7 +485,6 @@ button {
     color: currentColor;
     cursor: pointer;
 }
-<<<<<<< HEAD
 
 .go2012788653 {
     background: transparent;
@@ -522,10 +518,8 @@ button {
 }
 
 pattern {
-    overflow: hidden;
+    
 }
-=======
->>>>>>> bd1829c4469e19d455fdf61a008c6483dee1eb2f
 
 
 @media (max-width: 1024px) {
